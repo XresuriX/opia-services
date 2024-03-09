@@ -7,10 +7,10 @@ import SeoHead from "../components/SeoHead";
 export default function Home() {
   return (
     <>
-      <SeoHead title='LaslesVPN Landing Page' />
+      <SeoHead title='Opia-Services Landing Page' />
       <Layout>
         <Hero />
-        <Feature />
+        
         <Pricing />
       </Layout>
     </>
